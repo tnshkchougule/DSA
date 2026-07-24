@@ -1,7 +1,7 @@
-##Bubble Sort in DSA
+## Bubble Sort in DSA
 This repository contains a simple implementation of the bubble sort in DSA..
 
-##About
+## About
 Bubble Sort is a basic sorting algorithm that repeatedly compares adjacent elements and swaps them if they are in the wrong order. The process continues until the array is sorted.
 
 ## Algorithm
